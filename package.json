@@ -42,7 +42,7 @@
 		"express-slow-down": "^1.4.0",
 		"express-validator": "^6.9.2",
 		"helmet": "^4.2.0",
-		"js-base64": "^3.6.0",
+		"js-base64": "^3.7.4",
 		"jsonwebtoken": "^9.0.0",
 		"knex": "^2.4.0",
 		"moment": "^2.29.4",
